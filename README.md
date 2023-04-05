@@ -9,4 +9,4 @@ I did not know how to implement backtracking so didn't code it .. kindly excuse 
 # CIA-2 FOR DAA :
 
 have tried all the necessary algorithms that shows different classification metrics.
-file names = PSO , GA , pytorch 
+file names = PSO , GA ,  
